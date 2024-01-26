@@ -3,7 +3,7 @@ public class TestClass{
 public void welcomeMessge(){
 system.debug('Welcome to coding world!!s');
 system.debug('test brach ');
-system.debug('test brach merging test');
+system.debug('test brach merging ');
 }
 
 }
