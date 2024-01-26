@@ -2,6 +2,7 @@ public class TestClass{
 
 public void welcomeMessge(){
 system.debug('Welcome to coding world!!s');
+system.debug('testing');
 }
 
 }
